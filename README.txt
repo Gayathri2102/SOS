@@ -1,3 +1,25 @@
+FUNCTIONAL FEATURES
+-------------------
+Gather user location details and communicate with server	
+Receive emergencies in immediate surrounding and alert user	
+If user is not able to leave the emergency area, send location coordi-nates as text message to default emergency number	
+If user is not able to leave the emergency area, enable Bluetooth to as-sist in tracking 	
+Users can set a customized, emergency contact number	
+Appropriate Bluetooth name, to distinguish from random Bluetooth signals.	
+If user is not able to leave the emergency area, start a voice call to the emergency contact number	
+Flash torch light at regular intervals to serve as a beacon for rescue	
+Polish application to display addition information about the nature of emergency and possible security tips	
+I-Am-Safe button to override emergency action plan.	
+
+DEVICE REQUIREMENTS
+-------------------
+Internet	
+Location Services	
+Text Messaging	
+Bluetooth	
+Voice Calls	
+Torch	
+
 IDE & INSTALLATION NOTES
 ------------------------
 1) Downloading from github will provide warning about two missing iml files, remove the files and continue.
